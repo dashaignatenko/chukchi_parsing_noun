@@ -1,0 +1,376 @@
+﻿-deriv-type: n_every+
+ lex: <0>гамга[.] 
+ stem: гамга[.].
+ gloss: EVERY
+ paradigm: N-nom-n
+ paradigm: N-obl
+
+-deriv-type: n_every-
+ lex: <0>гэмгэ[.] 
+ stem: гэмгэ[.].
+ gloss: EVERY
+ paradigm: N-nom-n
+ paradigm: N-obl
+
+
+-deriv-type: pl_poss
+ lex: <0>[.]рг
+ stem: [.]рг.
+ gloss: 3pl
+ paradigm: N-nom-n
+ paradigm: N-obl
+
+-deriv-type: pl_poss_y
+ lex: <0>[.]ырг
+ stem: [.]ырг.
+ gloss: 3pl
+ paradigm: N-nom-n
+ paradigm: N-obl
+
+-deriv-type: poss-
+ lex: <0>[.]ин 
+ stem: [.]ин.
+ gloss: POSS
+ paradigm: N-nom-n
+ paradigm: N-obl
+
+-deriv-type: poss-
+ lex: <0>[.]ин 
+ stem: [.]инэ.
+ gloss: POSS
+ paradigm: N-nom-n
+ paradigm: N-obl
+
+-deriv-type: poss+
+ lex: <0>[.]эн 
+ stem: [.]эн
+ gloss: POSS
+ paradigm: N-nom-n
+ paradigm: N-obl
+ 
+-deriv-type: poss+
+ lex: <0>[.]эн 
+ stem: [.]энэ.
+ gloss: POSS
+ paradigm: N-nom-n
+ paradigm: N-obl
+ 
+-deriv-type: rel-
+ lex: <0>[.]кин 
+ stem: [.]кин
+ gloss: REL
+ paradigm: N-nom-n
+ paradigm: N-obl
+ 
+-deriv-type: rel-
+ lex: <0>[.]кин 
+ stem: [.]кинэ.
+ gloss: REL
+ paradigm: N-nom-n
+ paradigm: N-obl
+
+-deriv-type: rel+
+ lex: <0>[.]кэн 
+ stem: [.]кэн.
+ gloss: REL
+ paradigm: N-nom-n
+ paradigm: N-obl
+ 
+-deriv-type: rel+
+ lex: <0>[.]кэн 
+ stem: [.]кэнэ.
+ gloss: REL
+ paradigm: N-nom-n
+ paradigm: N-obl
+
+
+
+ 
+-deriv-type: edge+
+ lex: <0>[.]чорм 
+ stem: [.]чорм.
+ gloss: EDGE
+ paradigm: N-nom-n
+ paradigm: N-obl
+ 
+-deriv-type: edge-
+ lex: <0>[.]чурм 
+ stem: [.]чурм.
+ gloss: EDGE
+ paradigm: N-nom-n
+ paradigm: N-obl
+
+-deriv-type: edge_y+
+ lex: <0>[.]ычорм 
+ stem: [.]ычорм.
+ gloss: EDGE
+ paradigm: N-nom-n
+ paradigm: N-obl
+ 
+-deriv-type: edge_y-
+ lex: <0>[.]ычурм 
+ stem: [.]ычурм.
+ gloss: EDGE 
+ paradigm: N-nom-n
+ paradigm: N-obl
+ 
+ 
+ 
+-deriv-type: iness+
+ lex: <0>[.]чыко 
+ stem: [.]чыко.
+ gloss: INESS
+ paradigm: N-nom-n
+ paradigm: N-obl
+ paradigm: N-nom-0
+ 
+-deriv-type: iness-
+ lex: <0>[.]чыку 
+ stem: [.]чыку.
+ gloss: INESS
+ paradigm: N-nom-n
+ paradigm: N-obl
+ paradigm: N-nom-0
+
+-deriv-type: iness_y+
+ lex: <0>[.]ычыко 
+ stem: [.]ычыко.
+ gloss: INESS
+ paradigm: N-nom-n
+ paradigm: N-obl
+ paradigm: N-nom-0
+ 
+-deriv-type: iness_y-
+ lex: <0>[.]ычыку 
+ stem: [.]ычыку.
+ gloss: INESS
+ paradigm: N-nom-n
+ paradigm: N-obl
+ paradigm: N-nom-0
+ 
+ 
+ 
+-deriv-type: super
+ lex: <1>[.]ткын 
+ stem: [.]ткын.
+ gloss: SUPER
+ paradigm: N-nom-n
+ paradigm: N-obl
+ 
+-deriv-type: super_y
+ lex: <1>[.]ыткын 
+ stem: [.]ыткын.
+ gloss: SUPER
+ paradigm: N-nom-n
+ paradigm: N-obl
+
+
+-deriv-type: apud
+ lex: <1>[.]ңқач 
+ stem: [.]ңқач.
+ gloss: APUD
+ paradigm: N-nom-0
+ 
+-deriv-type: apud_y
+ lex: <1>[.]ыңқач 
+ stem: [.]ыңқач.
+ gloss: APUD
+ paradigm: N-nom-0
+ 
+-deriv-type: apud_a
+ lex: <1>[.]ңқача 
+ stem: [.]ңқача.
+ gloss: APUD
+ paradigm: N-obl
+ 
+-deriv-type: apud_a_y
+ lex: <1>[.]ыңқача 
+ stem: [.]ыңқача.
+ gloss: APUD
+ paradigm: N-obl
+
+
+
+
+
+ 
+-deriv-type: dim-
+ lex: <2>[.]қэй
+ stem: [.]қэй.
+ gloss: DIM
+ paradigm: N-nom-n
+ paradigm: N-obl
+ paradigm: N-nom-0
+ 
+-deriv-type: dim_y-
+ lex: <2>[.]ықэй
+ stem: [.]ықэй.
+ gloss: DIM
+ paradigm: N-nom-n
+ paradigm: N-obl
+ paradigm: N-nom-0
+ 
+-deriv-type: dim+
+ lex: <2>[.]қай
+ stem: [.]қай.
+ gloss: DIM
+ paradigm: N-nom-n
+ paradigm: N-obl
+ paradigm: N-nom-0
+ 
+-deriv-type: dim_y+
+ lex: <2>[.]ықай
+ stem: [.]ықай.
+ gloss: DIM
+ paradigm: N-nom-n
+ paradigm: N-obl
+ paradigm: N-nom-0
+ 
+-deriv-type: aug1
+ lex: <0>[.]чың
+ stem: [.]чың.
+ gloss: AUG
+ paradigm: N-nom-n
+ paradigm: N-obl
+ 
+-deriv-type: aug1_v
+ lex: <0>[.]чг
+ stem: [.]чг.
+ gloss: AUG
+ paradigm: N-nom-n
+ paradigm: N-obl
+ 
+-deriv-type: aug1_y
+ lex: <0>[.]ычг
+ stem: [.]ычг.
+ gloss: AUG
+ paradigm: N-nom-n
+ paradigm: N-obl
+ 
+-deriv-type: aug2
+ lex: <0>[.]йң
+ stem: [.]йң.
+ gloss: AUG
+ paradigm: N-nom-n
+ paradigm: N-obl
+ 
+-deriv-type: aug2_y
+ lex: <0>[.]ыйң
+ stem: [.]ыйң.
+ gloss: AUG
+ paradigm: N-nom-n
+ paradigm: N-obl
+ 
+ 
+ 
+ 
+-deriv-type: to.have+
+ lex: <0>га[.] 
+ stem: га[.].
+ gramm: to.have
+ gloss: TO.HAVE
+ paradigm: N-nom-n
+ paradigm: N-obl
+
+-deriv-type: to.have-
+ lex: <0>гэ[.] 
+ stem: гэ[.].
+ gramm: to.have
+ gloss: TO.HAVE
+ paradigm: N-nom-n
+ paradigm: N-obl
+ 
+ 
+ 
+-deriv-type: pcpl
+ lex: <0>[.]ль 
+ stem: [.]ль.
+ gloss: PCPL
+ paradigm: N-nom-n
+ paradigm: N-obl
+ 
+-deriv-type: pcpl_y
+ lex: <0>[.]ыль 
+ stem: [.]ыль.
+ gloss: PCPL
+ paradigm: N-nom-n
+ paradigm: N-obl
+
+
+
+-deriv-type: coll_mk
+ lex: <0>[.]мк 
+ stem: [.]мк.
+ gloss: COLL
+ paradigm: N-nom-n
+ paradigm: N-obl
+ 
+-deriv-type: coll_mk_y
+ lex: <0>[.]ымк 
+ stem: [.]ымк.
+ gloss: COLL
+ paradigm: N-nom-n
+ paradigm: N-obl
+ 
+-deriv-type: coll+
+ lex: <0>[.]тко 
+ stem: [.]тко.
+ gloss: COLL
+ paradigm: N-nom-n
+ paradigm: N-obl
+ 
+-deriv-type: coll-
+ lex: <0>[.]тку 
+ stem: [.]тку.
+ gloss: COLL
+ paradigm: N-nom-n
+ paradigm: N-obl
+ 
+-deriv-type: coll_y+
+ lex: <0>[.]ытко 
+ stem: [.]ытко.
+ gloss: COLL
+ paradigm: N-nom-n
+ paradigm: N-obl
+ 
+-deriv-type: coll_y-
+ lex: <0>[.]ытку 
+ stem: [.]ытку.
+ gloss: COLL
+ paradigm: N-nom-n
+ paradigm: N-obl
+ 
+ 
+-deriv-type: rest+
+ lex: <0>ам[.] 
+ stem: .ам[.].
+ gloss: REST
+ paradigm: N-nom-n
+ paradigm: N-obl
+ 
+-deriv-type: rest-
+ lex: <0>эм[.] 
+ stem: .эм[.].
+ gloss: REST
+ paradigm: N-nom-n
+ paradigm: N-obl
+ 
+-deriv-type: appr_l
+ lex: <0>мэл[.] 
+ stem: .мэл[.].
+ gloss: APPR
+ paradigm: N-nom-n
+ paradigm: N-obl
+ 
+-deriv-type: appr_c
+ lex: <0>мэч[.] 
+ stem: .мэч[.].
+ gloss: APPR
+ paradigm: N-nom-n
+ paradigm: N-obl
+ paradigm: N-nom-0
+ 
+-deriv-type: emph
+ lex: <0>[.]ым 
+ stem: .[.].ым
+ gloss: EMPH
